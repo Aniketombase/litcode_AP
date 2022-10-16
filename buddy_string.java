@@ -1,4 +1,5 @@
 class Solution {
+    //added new code changes
     public boolean buddyStrings(String s, String goal) {
       
         if(s.length() == 1){
